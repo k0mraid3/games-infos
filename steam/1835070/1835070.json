@@ -1,0 +1,14 @@
+{
+  "Dlcs": {},
+  "Name": "Gem Raider 2",
+  "AppId": "1835070",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1835070/header.jpg?t=1640646282",
+  "Languages": [
+    "english"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

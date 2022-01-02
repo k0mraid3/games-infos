@@ -1,0 +1,17 @@
+{
+  "Dlcs": {},
+  "Name": "Fencing Girl",
+  "AppId": "1847950",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1847950/header.jpg?t=1641093735",
+  "Languages": [
+    "english",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

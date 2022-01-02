@@ -1,0 +1,22 @@
+{
+  "Dlcs": {},
+  "Name": "Idiot Brain Evolution",
+  "AppId": "1758390",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1758390/header.jpg?t=1640671067",
+  "Languages": [
+    "english",
+    "french",
+    "german",
+    "spanish",
+    "russian",
+    "japanese",
+    "schinese",
+    "portuguese",
+    "korean"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

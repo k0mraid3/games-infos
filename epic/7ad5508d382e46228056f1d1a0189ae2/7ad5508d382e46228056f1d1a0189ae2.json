@@ -159,6 +159,66 @@
     "AncientDreadToPrimordialDread Audience": {
       "Name": "AncientDreadToPrimordialDread Audience",
       "ItemId": "c543fd4fa6b84a4db49eed1bac957a78"
+    },
+    "Imperator Supporter Pack Audience": {
+      "Name": "Imperator Supporter Pack Audience",
+      "ItemId": "4adc95aba02b462e8ca61449a1342013"
+    },
+    "Nullifier Supporter Pack Audience": {
+      "Name": "Nullifier Supporter Pack Audience",
+      "ItemId": "45f7ec59ea6d491692e069ad02a8b7ba"
+    },
+    "Annihilator Supporter Pack Audience": {
+      "Name": "Annihilator Supporter Pack Audience",
+      "ItemId": "9e5a8e17f14b4df79796e1d82f313a48"
+    },
+    "Ravager Supporter Pack Audience": {
+      "Name": "Ravager Supporter Pack Audience",
+      "ItemId": "c15f77a88bad4c0e86a19796cc46a959"
+    },
+    "Incinerator Supporter Pack Audience": {
+      "Name": "Incinerator Supporter Pack Audience",
+      "ItemId": "83d8c8d4081d4bd683c2878715e9ca5e"
+    },
+    "ImperatorToNullifierUpgrade Audience": {
+      "Name": "ImperatorToNullifierUpgrade Audience",
+      "ItemId": "dd8c9c726fd447c89179c9591405f7c8"
+    },
+    "ImperatorToAnnihilatorUpgrade Audience": {
+      "Name": "ImperatorToAnnihilatorUpgrade Audience",
+      "ItemId": "48379b4c24fc41588c1407837b6e067c"
+    },
+    "ImperatorToRavagerUpgrade Audience": {
+      "Name": "ImperatorToRavagerUpgrade Audience",
+      "ItemId": "80614fede4fd4960b9207b81eac7a443"
+    },
+    "ImperatorToIncineratorUpgrade Audience": {
+      "Name": "ImperatorToIncineratorUpgrade Audience",
+      "ItemId": "d06bca1034264ec8b876182b506529bb"
+    },
+    "NullifierToAnnihilatorUpgrade Audience": {
+      "Name": "NullifierToAnnihilatorUpgrade Audience",
+      "ItemId": "e2215e97e6004d59a3baf1d6d5f1797a"
+    },
+    "NullifierToRavagerUpgrade Audience": {
+      "Name": "NullifierToRavagerUpgrade Audience",
+      "ItemId": "7d2cc37cf6c54f8f88ef9afe2ba35451"
+    },
+    "NullifierToIncineratorUpgrade Audience": {
+      "Name": "NullifierToIncineratorUpgrade Audience",
+      "ItemId": "7966e21cf41b42ddb8f2e3c75886733e"
+    },
+    "AnnihilatorToRavagerUpgrade Audience": {
+      "Name": "AnnihilatorToRavagerUpgrade Audience",
+      "ItemId": "1818d654ab814a91a75515861ba18f82"
+    },
+    "AnnihilatorToIncineratorUpgrade Audience": {
+      "Name": "AnnihilatorToIncineratorUpgrade Audience",
+      "ItemId": "b9ea90facd9d439284e3091c2b1b2540"
+    },
+    "RavagerToIncineratorUpgrade Audience": {
+      "Name": "RavagerToIncineratorUpgrade Audience",
+      "ItemId": "34d7eb5c18f943aa8ad1d74207f62fb4"
     }
   }
 }

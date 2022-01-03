@@ -6,7 +6,7 @@
   "AppId": "34eda78a6b24468f9fb70d73793bdaab",
   "Namespace": "2b352b4aea3849bd9519842dda263ac7",
   "ItemId": "f2b771191a0a4a6e85f3ab7a51ea57ab",
-  "ImageUrl": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CRSEDFOAD_DarkflowSoftware_S5_1920x1080-99a7c52590fc11818616dc1cc9539a6b",
+  "ImageUrl": "https://cdn1.epicgames.com/item/2b352b4aea3849bd9519842dda263ac7/EGS_CRSEDFOAD_DarkflowSoftware_S5_1920x1080-b02d4c6f15c24457e2c3bd8c590c6aee",
   "Dlcs": {
     "CRSED: F.O.A.D. - 5000 + 1250 Golden Crowns Audience": {
       "Name": "CRSED: F.O.A.D. - 5000 + 1250 Golden Crowns Audience",
@@ -28,21 +28,21 @@
       "Name": "CRSED: F.O.A.D. - 2500 + 300 Golden Crowns",
       "ItemId": "7b512d66964c4b2289938add41269ab6"
     },
-    "CRSED: F.O.A.D. - Age of Nagual Pack": {
-      "Name": "CRSED: F.O.A.D. - Age of Nagual Pack",
-      "ItemId": "905852974c514878be400f34886ad50c"
-    },
     "CRSED: F.O.A.D. - God of Thunder Pack": {
       "Name": "CRSED: F.O.A.D. - God of Thunder Pack",
       "ItemId": "ea152715c78f420aa37729dd50e66427"
     },
-    "CRSED: F.O.A.D. - Biker Queen Pack": {
-      "Name": "CRSED: F.O.A.D. - Biker Queen Pack",
-      "ItemId": "cc1332024a5c424d8faa9731ccd6d38c"
+    "CRSED: F.O.A.D. - Age of Nagual Pack": {
+      "Name": "CRSED: F.O.A.D. - Age of Nagual Pack",
+      "ItemId": "905852974c514878be400f34886ad50c"
     },
     "CRSED: F.O.A.D. - 10000 + 3500 Golden Crowns Audience": {
       "Name": "CRSED: F.O.A.D. - 10000 + 3500 Golden Crowns Audience",
       "ItemId": "9390197a52ce4a48abe69def165edcd3"
+    },
+    "CRSED: F.O.A.D. - Biker Queen Pack": {
+      "Name": "CRSED: F.O.A.D. - Biker Queen Pack",
+      "ItemId": "cc1332024a5c424d8faa9731ccd6d38c"
     },
     "CRSED: F.O.A.D. - 1000 Golden Crowns": {
       "Name": "CRSED: F.O.A.D. - 1000 Golden Crowns",

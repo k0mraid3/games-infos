@@ -6,7 +6,7 @@
   "AppId": "a79746038c6948558274065d24f3faa3",
   "Namespace": "84c76746bce94effb8e1047fabfd7eb7",
   "ItemId": "b9e23e5fa8e84064b356677022beb37a",
-  "ImageUrl": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/item/EGS_WorldofWarships_WargamingGroupLimited_S5-1920x1080-0e04d731de30455231f06f17d743360e.jpg",
+  "ImageUrl": "https://cdn1.epicgames.com/item/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarships_WargamingGroupLimited_S1_2560x1440-c81bfa883e0c157b8c799ed5d411a857",
   "Dlcs": {
     "SmallCreditStockAudience": {
       "Name": "SmallCreditStockAudience",
@@ -71,6 +71,10 @@
     "DLC 032 Audience": {
       "Name": "DLC 032 Audience",
       "ItemId": "37ac85b753324629927ee043f62a255a"
+    },
+    "DLC 033 Audience": {
+      "Name": "DLC 033 Audience",
+      "ItemId": "b05d638e2aea44baacd7e3eea66ff060"
     }
   }
 }

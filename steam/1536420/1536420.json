@@ -264,6 +264,16 @@
       "Name": "Hospital for Clip maker",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1845300/header.jpg?t=1639210213",
       "Type": "dlc"
+    },
+    "1866030": {
+      "Name": "Ancient for Clip maker",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1866030/header.jpg?t=1641630491",
+      "Type": "dlc"
+    },
+    "1868150": {
+      "Name": "Cyberpunk for Clip maker",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1868150/header.jpg?t=1641630535",
+      "Type": "dlc"
     }
   },
   "Name": "Clip maker",

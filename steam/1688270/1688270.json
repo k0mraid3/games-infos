@@ -1,0 +1,21 @@
+{
+  "Dlcs": {
+    "1807510": {
+      "Name": "I've Seen Everything - Season Pass",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1807510/header.jpg?t=1641733806",
+      "Type": "dlc"
+    }
+  },
+  "Name": "I've Seen Everything",
+  "AppId": "1688270",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1688270/header.jpg?t=1641732630",
+  "Languages": [
+    "english",
+    "russian"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  }
+}

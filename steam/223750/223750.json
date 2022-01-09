@@ -524,6 +524,16 @@
       "Name": "DCS: NS 430 Navigation System for SA34 Gazelle",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1522410/header.jpg?t=1636229981",
       "Type": "dlc"
+    },
+    "1853640": {
+      "Name": "DCS: A-10C II Iron Flag Part 1 Campaign",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1853640/header.jpg?t=1641332784",
+      "Type": "dlc"
+    },
+    "1855800": {
+      "Name": "DCS: UH-1H Paradise Lost Campaign",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1855800/header.jpg?t=1641332773",
+      "Type": "dlc"
     }
   },
   "Name": "DCS World Steam Edition",

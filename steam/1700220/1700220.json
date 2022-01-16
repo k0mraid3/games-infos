@@ -1,0 +1,14 @@
+{
+  "Dlcs": {},
+  "Name": "东方远空界 ~ Ultimate Vitality of Imagination",
+  "AppId": "1700220",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1700220/header.jpg?t=1642323711",
+  "Languages": [
+    "schinese"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Dlcs": {},
+  "Name": "Toziuha Night: Dracula's Revenge",
+  "AppId": "1872040",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1872040/header.jpg?t=1641998102",
+  "Languages": [
+    "english",
+    "spanish",
+    "latam"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

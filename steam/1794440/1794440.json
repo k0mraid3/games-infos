@@ -9,6 +9,11 @@
       "Name": "dig - santa costume",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1853800/header.jpg?t=1640036021",
       "Type": "dlc"
+    },
+    "1853801": {
+      "Name": "dig - knight costume",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1853801/header.jpg?t=1642198175",
+      "Type": "dlc"
     }
   },
   "Name": "dig",

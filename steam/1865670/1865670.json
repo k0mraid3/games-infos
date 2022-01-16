@@ -1,0 +1,16 @@
+{
+  "Dlcs": {},
+  "Name": "Gensokyo Odyssey",
+  "AppId": "1865670",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1865670/header.jpg?t=1642119417",
+  "Languages": [
+    "english",
+    "latam",
+    "japanese"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  }
+}

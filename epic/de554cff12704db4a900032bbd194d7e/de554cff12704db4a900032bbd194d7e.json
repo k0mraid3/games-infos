@@ -76,6 +76,22 @@
     "PSP Audience": {
       "Name": "PSP Audience",
       "ItemId": "4ea617f4ee2c4283a8431b351f06272d"
+    },
+    "Doctor Who Star Pack Audience": {
+      "Name": "Doctor Who Star Pack Audience",
+      "ItemId": "b2770784a7b04c70b383bef6c6d55f88"
+    },
+    "Doctor Who Nebula Pack Audience": {
+      "Name": "Doctor Who Nebula Pack Audience",
+      "ItemId": "7e71d7ec280b45959ce6a663d8c46e09"
+    },
+    "Doctor Who Interstellar Pack Audience": {
+      "Name": "Doctor Who Interstellar Pack Audience",
+      "ItemId": "937c1c2eefda402e8c7338657f3b056f"
+    },
+    "Doctor Who Galaxy Pack Audience": {
+      "Name": "Doctor Who Galaxy Pack Audience",
+      "ItemId": "0f9a6a9aa7a5462ebdb962bcf3baf462"
     }
   }
 }

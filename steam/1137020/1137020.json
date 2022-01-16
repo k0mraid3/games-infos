@@ -14,6 +14,11 @@
       "Name": "My Train Arrives - Big cities",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1572030/header.jpg?t=1617128696",
       "Type": "dlc"
+    },
+    "1862700": {
+      "Name": "My Train Arrives - In ten years",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1862700/header.jpg?t=1641994898",
+      "Type": "dlc"
     }
   },
   "Name": "My Train Arrives",

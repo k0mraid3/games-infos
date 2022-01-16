@@ -2654,6 +2654,16 @@
       "Name": "RPG Maker MV - Winlu Cyberpunk Tileset - Exterior",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1857270/header.jpg?t=1641510367",
       "Type": "dlc"
+    },
+    "1869731": {
+      "Name": "RPG Maker MV - Last Boss Pack Vol.3",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1869731/header.jpg?t=1642095712",
+      "Type": "dlc"
+    },
+    "1869730": {
+      "Name": "RPG Maker MV - Retro Future Music Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1869730/header.jpg?t=1642095635",
+      "Type": "dlc"
     }
   },
   "Name": "RPG Maker MV",

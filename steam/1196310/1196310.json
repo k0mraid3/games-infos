@@ -8817,6 +8817,41 @@
       "Name": "Fantasy Grounds - Pathfinder 2 RPG - Pathfinder Bounty #10: Hillcross Roundup",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1860620/header.jpg?t=1641907077",
       "Type": "dlc"
+    },
+    "1874610": {
+      "Name": "Fantasy Grounds - FG Desert Map Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1874610/header.jpg?t=1642623718",
+      "Type": "dlc"
+    },
+    "1874640": {
+      "Name": "Fantasy Grounds - FG Desert Ruins Map Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1874640/header.jpg?t=1642519158",
+      "Type": "dlc"
+    },
+    "1855370": {
+      "Name": "Fantasy Grounds - Jans Token Pack 24 - Heroes 5",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1855370/header.jpg?t=1642514863",
+      "Type": "dlc"
+    },
+    "1858020": {
+      "Name": "Fantasy Grounds - Jans Token Pack 25 - Swamp Creatures",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1858020/header.jpg?t=1642514798",
+      "Type": "dlc"
+    },
+    "1817340": {
+      "Name": "Fantasy Grounds - Starfinder RPG - Junker's Delight",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1817340/header.jpg?t=1642516608",
+      "Type": "dlc"
+    },
+    "1446060": {
+      "Name": "Fantasy Grounds - Pathfinder RPG - Campaign Setting: Lost Cities of Golarion",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1446060/header.jpg?t=1642516405",
+      "Type": "dlc"
+    },
+    "1446040": {
+      "Name": "Fantasy Grounds - Pathfinder RPG - Campaign Setting: Misfit Monsters Redeemed",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1446040/header.jpg?t=1642516741",
+      "Type": "dlc"
     }
   },
   "Name": "Fantasy Grounds Unity",

@@ -234,6 +234,11 @@
       "Name": "Star Conflict - Thor",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1819030/header.jpg?t=1640586865",
       "Type": "dlc"
+    },
+    "1040042": {
+      "Name": "Star Conflict: Waz'got. Deluxe Version",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1040042/header.jpg?t=1642529792",
+      "Type": "dlc"
     }
   },
   "Name": "Star Conflict",

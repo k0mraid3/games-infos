@@ -29,6 +29,16 @@
       "Name": "HUMANKIND™ Deluxe",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1633650/header.jpg?t=1637255157",
       "Type": "dlc"
+    },
+    "1819400": {
+      "Name": "HUMANKIND™ - Cultures of Africa Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1819400/header.jpg?t=1642766723",
+      "Type": "dlc"
+    },
+    "1867250": {
+      "Name": "HUMANKIND™ - Music for the Ages, Vol. V",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1867250/header.jpg?t=1642690684",
+      "Type": "music"
     }
   },
   "Name": "HUMANKIND™",

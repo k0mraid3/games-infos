@@ -1,0 +1,14 @@
+{
+  "Dlcs": {},
+  "Name": "三国战纪风云再起Idle RPG",
+  "AppId": "1870370",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1870370/header.jpg?t=1642479429",
+  "Languages": [
+    "schinese"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

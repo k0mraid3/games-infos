@@ -75,6 +75,10 @@
     "DLC 033 Audience": {
       "Name": "DLC 033 Audience",
       "ItemId": "b05d638e2aea44baacd7e3eea66ff060"
+    },
+    "Lunar New Year Special Pack": {
+      "Name": "Lunar New Year Special Pack",
+      "ItemId": "26ec0bee4d7042e8942ceec74430355f"
     }
   }
 }

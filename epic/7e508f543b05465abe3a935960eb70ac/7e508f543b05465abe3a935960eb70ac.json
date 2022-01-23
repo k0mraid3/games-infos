@@ -485,13 +485,37 @@
       "Name": "Bardic Inspiration Vol 2 Audience",
       "ItemId": "6a0199d0c6c64e1698d3c41e19224b44"
     },
+    "Ascendant Reinforcements Bundle Pack": {
+      "Name": "Ascendant Reinforcements Bundle Pack",
+      "ItemId": "a21a481327e64ab494fda4c4cd9f1349"
+    },
     "Icewind Dale Prudence Skin & Feat Pack": {
       "Name": "Icewind Dale Prudence Skin & Feat Pack",
       "ItemId": "d650f6d63527472fb8d86aa80c5bdc5c"
     },
-    "Ascendant Reinforcements Bundle Pack": {
-      "Name": "Ascendant Reinforcements Bundle Pack",
-      "ItemId": "a21a481327e64ab494fda4c4cd9f1349"
+    "Shadowfell Farideh Skin & Feat Pack": {
+      "Name": "Shadowfell Farideh Skin & Feat Pack",
+      "ItemId": "021b93bb14454aa484d618f80d2e1b53"
+    },
+    "Shadowfell Havilar Skin & Feat Pack": {
+      "Name": "Shadowfell Havilar Skin & Feat Pack",
+      "ItemId": "635371d1d4274b4893edabc80cf3059c"
+    },
+    "Eberron Inventor Vi Theme Pack": {
+      "Name": "Eberron Inventor Vi Theme Pack",
+      "ItemId": "6788afc4d36e4bf696e77de3990893af"
+    },
+    "Disco the Baby Moonstone Dragon Familiar Pack": {
+      "Name": "Disco the Baby Moonstone Dragon Familiar Pack",
+      "ItemId": "932268803d0746fcae81fd0f6b557987"
+    },
+    "Shadowfell Desmond Theme Pack": {
+      "Name": "Shadowfell Desmond Theme Pack",
+      "ItemId": "953796d5afb34b25bb8cc597ad3ea30b"
+    },
+    "Shadowfell Mehen Skin & Feat Pack": {
+      "Name": "Shadowfell Mehen Skin & Feat Pack",
+      "ItemId": "df15b5b05acf4f1bb885c9afdc50436a"
     }
   }
 }

@@ -2664,6 +2664,16 @@
       "Name": "RPG Maker MV - Retro Future Music Pack",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1869730/header.jpg?t=1642095635",
       "Type": "dlc"
+    },
+    "1876630": {
+      "Name": "RPG Maker MV - Valor And Villainy Music Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1876630/header.jpg?t=1642701167",
+      "Type": "dlc"
+    },
+    "1874570": {
+      "Name": "RPG Maker MV - POP FANTASY BigMonster and NPC Face Set",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1874570/header.jpg?t=1642699471",
+      "Type": "dlc"
     }
   },
   "Name": "RPG Maker MV",

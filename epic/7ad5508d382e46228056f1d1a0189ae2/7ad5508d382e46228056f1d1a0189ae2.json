@@ -219,6 +219,54 @@
     "RavagerToIncineratorUpgrade Audience": {
       "Name": "RavagerToIncineratorUpgrade Audience",
       "ItemId": "34d7eb5c18f943aa8ad1d74207f62fb4"
+    },
+    "E2E 2 audience": {
+      "Name": "E2E 2 audience",
+      "ItemId": "0477baa93da1436b9f7f88cbe5609ae2"
+    },
+    "W2W 2 audience": {
+      "Name": "W2W 2 audience",
+      "ItemId": "0b7f171c7c3b4b00840fa497cec8626e"
+    },
+    "W 3 audience": {
+      "Name": "W 3 audience",
+      "ItemId": "0f8ed9607cb34580923a388cc1fb74af"
+    },
+    "E2E 3 audience": {
+      "Name": "E2E 3 audience",
+      "ItemId": "1bb9a347a4c74832a25ebdb4607774d9"
+    },
+    "W 1 audience": {
+      "Name": "W 1 audience",
+      "ItemId": "2a7b18b3ed204bc0b76c85a8b0d58b02"
+    },
+    "W 2 audience": {
+      "Name": "W 2 audience",
+      "ItemId": "3a2cd748bd5c411a9b94f02246f9838a"
+    },
+    "W2W 3 audience": {
+      "Name": "W2W 3 audience",
+      "ItemId": "4df70b628b23489093cc9533760a38c3"
+    },
+    "E 2 audience": {
+      "Name": "E 2 audience",
+      "ItemId": "8e7d8ab811de41e3aa0f30fb17056f61"
+    },
+    "E2E 1 audience": {
+      "Name": "E2E 1 audience",
+      "ItemId": "6ce06872dda14086bbcbd066fe213f88"
+    },
+    "E 1 audience": {
+      "Name": "E 1 audience",
+      "ItemId": "992ce02a0c8c4beca42dbfd74263375b"
+    },
+    "W2W 1 audience": {
+      "Name": "W2W 1 audience",
+      "ItemId": "c3f1b1d2befe4855837c45b641eed718"
+    },
+    "E 3 audience": {
+      "Name": "E 3 audience",
+      "ItemId": "bfc3060d4b314dd4bcce2ae074891e2a"
     }
   }
 }

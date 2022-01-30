@@ -6,7 +6,7 @@
   "AppId": "Antbird",
   "Namespace": "badb0ee71b474ed591ec43212547cfc8",
   "ItemId": "85a98d012e1245c8a6572f03fcf920b6",
-  "ImageUrl": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins-EGS-Patch21pt7Azaan-LandscapeIMG-2560x1440_2560x1440-8ead6997f1d20d292e943027b173416b",
+  "ImageUrl": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins_22p1_EGS_LandscapeImage_2560x1440_2560x1440-cebed65974694018109d7dd7f0f2428b",
   "Dlcs": {
     "Dragon Rider Pack Marker": {
       "Name": "Dragon Rider Pack Marker",
@@ -35,6 +35,10 @@
     "Sky Whale Pack Audience": {
       "Name": "Sky Whale Pack Audience",
       "ItemId": "0097ad11c7c440feb58580ba9c14db52"
+    },
+    "Paladins Season 4 Champions Bundle": {
+      "Name": "Paladins Season 4 Champions Bundle",
+      "ItemId": "3113bf660ca74222ae88e13994281d8f"
     }
   }
 }

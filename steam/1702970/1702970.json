@@ -1,0 +1,16 @@
+{
+  "Dlcs": {},
+  "Name": "Kibbi Keeper",
+  "AppId": "1702970",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1702970/header.jpg?t=1643390940",
+  "Languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

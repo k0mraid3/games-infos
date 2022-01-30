@@ -1,5 +1,11 @@
 {
-  "Dlcs": {},
+  "Dlcs": {
+    "1868560": {
+      "Name": "The Personal Reasons Soundtrack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1868560/header.jpg?t=1643492333",
+      "Type": "music"
+    }
+  },
   "Name": "The Personal Reasons",
   "AppId": "1808550",
   "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1808550/header.jpg?t=1637157022",

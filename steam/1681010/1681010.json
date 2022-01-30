@@ -1,5 +1,11 @@
 {
-  "Dlcs": {},
+  "Dlcs": {
+    "1883100": {
+      "Name": "Go! Go! PogoGirl Soundtrack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1883100/header.jpg?t=1643205848",
+      "Type": "music"
+    }
+  },
   "Name": "Go! Go! PogoGirl",
   "AppId": "1681010",
   "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1681010/header.jpg?t=1630326416",

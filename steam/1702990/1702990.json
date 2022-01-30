@@ -1,0 +1,16 @@
+{
+  "Dlcs": {},
+  "Name": "Legend of the Outlaw Mage",
+  "AppId": "1702990",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1702990/header.jpg?t=1643390973",
+  "Languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

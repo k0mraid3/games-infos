@@ -179,6 +179,16 @@
       "Name": "DJMAX RESPECT V - CLEAR PASS : S4 CLEAR POINT BOOSTER",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1823441/header.jpg?t=1638422807",
       "Type": "dlc"
+    },
+    "1843020": {
+      "Name": "DJMAX RESPECT V - V EXTENSION II PACK",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1843020/header.jpg?t=1643086914",
+      "Type": "dlc"
+    },
+    "1843010": {
+      "Name": "DJMAX RESPECT V - V EXTENSION II Original Soundtrack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1843010/header.jpg?t=1643086954",
+      "Type": "music"
     }
   },
   "Name": "DJMAX RESPECT V",

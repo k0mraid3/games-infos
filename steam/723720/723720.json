@@ -1,0 +1,14 @@
+{
+  "Dlcs": {},
+  "Name": "La Maledizione dell'Uccello Serpente",
+  "AppId": "723720",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/723720/header.jpg?t=1643056111",
+  "Languages": [
+    "italian"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

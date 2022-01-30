@@ -1,5 +1,11 @@
 {
-  "Dlcs": {},
+  "Dlcs": {
+    "1880430": {
+      "Name": "Battle Heroine Crisis - Ganessa's Challenge",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1880430/header.jpg?t=1643530735",
+      "Type": "dlc"
+    }
+  },
   "Name": "Battle Heroine Crysis",
   "AppId": "1817610",
   "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1817610/header.jpg?t=1637823682",

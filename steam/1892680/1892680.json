@@ -1,0 +1,24 @@
+{
+  "Dlcs": {},
+  "Name": "Vitality Girl Ⅱ:Fire",
+  "AppId": "1892680",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1892680/header.jpg?t=1643807289",
+  "Languages": [
+    "english",
+    "french",
+    "italian",
+    "german",
+    "spanish",
+    "russian",
+    "japanese",
+    "schinese",
+    "tchinese",
+    "portuguese",
+    "korean"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

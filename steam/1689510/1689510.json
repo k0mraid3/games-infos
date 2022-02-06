@@ -169,6 +169,16 @@
       "Name": "RPGScenery - Castle Gate Scene",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1736783/header.jpg?t=1641686599",
       "Type": "dlc"
+    },
+    "1896520": {
+      "Name": "RPGScenery - Campground",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1896520/header.jpg?t=1644096725",
+      "Type": "dlc"
+    },
+    "1896521": {
+      "Name": "RPGScenery - Medieval Street",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1896521/header.jpg?t=1644096704",
+      "Type": "dlc"
     }
   },
   "Name": "RPGScenery",

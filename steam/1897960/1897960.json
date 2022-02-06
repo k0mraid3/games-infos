@@ -1,0 +1,14 @@
+{
+  "Dlcs": {},
+  "Name": "Meet Cute: Delivery 🐾",
+  "AppId": "1897960",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1897960/header.jpg?t=1644024284",
+  "Languages": [
+    "english"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

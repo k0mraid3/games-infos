@@ -49,6 +49,11 @@
       "Name": "Space Engineers - Heavy Industry",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1676100/header.jpg?t=1627494272",
       "Type": "dlc"
+    },
+    "1783760": {
+      "Name": "Space Engineers - Warfare 2",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1783760/header.jpg?t=1643965893",
+      "Type": "dlc"
     }
   },
   "Name": "Space Engineers",

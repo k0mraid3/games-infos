@@ -199,6 +199,11 @@
       "Name": "Coloring Pixels - Isometric 2",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1868480/header.jpg?t=1641486786",
       "Type": "dlc"
+    },
+    "1897200": {
+      "Name": "Coloring Pixels - Cute Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1897200/header.jpg?t=1643905302",
+      "Type": "dlc"
     }
   },
   "Name": "Coloring Pixels",

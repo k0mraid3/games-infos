@@ -1,0 +1,17 @@
+{
+  "Dlcs": {},
+  "Name": "Axiom of Maria",
+  "AppId": "1885250",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1885250/header.jpg?t=1644740120",
+  "Languages": [
+    "english",
+    "japanese",
+    "korean",
+    "schinese"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

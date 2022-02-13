@@ -43,6 +43,14 @@
     "Bundle Audience": {
       "Name": "Bundle Audience",
       "ItemId": "3eb5b517b0ff47608b31ad1bafdf4694"
+    },
+    "S6 Starter Pack Audience": {
+      "Name": "S6 Starter Pack Audience",
+      "ItemId": "b4d00a583bcb424ea5d472cddf126b6b"
+    },
+    "S6 Customization Pack Audience": {
+      "Name": "S6 Customization Pack Audience",
+      "ItemId": "96f824698fb940ca8111381fda1e006d"
     }
   }
 }

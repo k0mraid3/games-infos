@@ -1,5 +1,16 @@
 {
-  "Dlcs": {},
+  "Dlcs": {
+    "1887970": {
+      "Name": "L'Etranger - Original Soundtrack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1887970/header.jpg?t=1644387146",
+      "Type": "music"
+    },
+    "1887900": {
+      "Name": "局外人 L'Etranger - Digital Art Booklet",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1887900/header.jpg?t=1644387070",
+      "Type": "dlc"
+    }
+  },
   "Name": "局外人 L'Etranger",
   "AppId": "1078970",
   "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1078970/header.jpg?t=1601440860",

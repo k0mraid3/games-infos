@@ -274,6 +274,16 @@
       "Name": "Cyberpunk for Clip maker",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1868150/header.jpg?t=1641630535",
       "Type": "dlc"
+    },
+    "1905280": {
+      "Name": "Droids for Clip maker",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1905280/header.jpg?t=1644655536",
+      "Type": "dlc"
+    },
+    "1901480": {
+      "Name": "Wallpaper creator for Clip maker",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1901480/header.jpg?t=1644655571",
+      "Type": "dlc"
     }
   },
   "Name": "Clip maker",

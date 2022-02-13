@@ -1,0 +1,17 @@
+{
+  "Dlcs": {},
+  "Name": "Tide Up",
+  "AppId": "1890520",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1890520/header.jpg?t=1644680641",
+  "Languages": [
+    "english",
+    "japanese",
+    "korean",
+    "schinese"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

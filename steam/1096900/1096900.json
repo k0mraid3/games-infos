@@ -1584,6 +1584,21 @@
       "Name": "RPG Maker MZ - KR Legendary Palaces - Mermaid Tileset",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1892130/header.jpg?t=1643910489",
       "Type": "dlc"
+    },
+    "1892120": {
+      "Name": "RPG Maker MZ - Tyler Cline's Horror Music Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1892120/header.jpg?t=1644526530",
+      "Type": "dlc"
+    },
+    "1892170": {
+      "Name": "RPG Maker MZ - Pixelated Animations Pack Vol.1",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1892170/header.jpg?t=1644630135",
+      "Type": "dlc"
+    },
+    "1779330": {
+      "Name": "RPG Maker MZ - Survival Horror Music Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779330/header.jpg?t=1644516284",
+      "Type": "dlc"
     }
   },
   "Name": "RPG Maker MZ",

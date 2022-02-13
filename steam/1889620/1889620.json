@@ -1,0 +1,14 @@
+{
+  "Dlcs": {},
+  "Name": "AI Roguelite",
+  "AppId": "1889620",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1889620/header.jpg?t=1644792705",
+  "Languages": [
+    "english"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

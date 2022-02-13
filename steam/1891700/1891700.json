@@ -1,0 +1,19 @@
+{
+  "Dlcs": {},
+  "Name": "Tap Ninja - Idle Game",
+  "AppId": "1891700",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1891700/header.jpg?t=1644705860",
+  "Languages": [
+    "english",
+    "french",
+    "german",
+    "japanese",
+    "korean",
+    "portuguese"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  }
+}

@@ -64,6 +64,21 @@
       "Name": "World of Tanks - Elusive Menace Pack",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1811790/header.jpg?t=1637319204",
       "Type": "dlc"
+    },
+    "1879440": {
+      "Name": "World of Tanks — Special Delivery Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1879440/header.jpg?t=1644493314",
+      "Type": "dlc"
+    },
+    "1879450": {
+      "Name": "World of Tanks — Ruthless Champion Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1879450/header.jpg?t=1644505329",
+      "Type": "dlc"
+    },
+    "1879460": {
+      "Name": "World of Tanks — Restless Raider Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1879460/header.jpg?t=1644505268",
+      "Type": "dlc"
     }
   },
   "Name": "World of Tanks",

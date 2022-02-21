@@ -267,6 +267,10 @@
     "E 3 audience": {
       "Name": "E 3 audience",
       "ItemId": "bfc3060d4b314dd4bcce2ae074891e2a"
+    },
+    "Kirac's Vault Pass audience": {
+      "Name": "Kirac's Vault Pass audience",
+      "ItemId": "acdfec3d7370431898e7df0e107ed26f"
     }
   }
 }

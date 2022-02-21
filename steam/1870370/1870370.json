@@ -1,5 +1,11 @@
 {
-  "Dlcs": {},
+  "Dlcs": {
+    "1909000": {
+      "Name": "三国战纪之陆逊优惠包",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1909000/header.jpg?t=1645289774",
+      "Type": "dlc"
+    }
+  },
   "Name": "三国战纪风云再起Idle RPG",
   "AppId": "1870370",
   "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1870370/header.jpg?t=1642479429",

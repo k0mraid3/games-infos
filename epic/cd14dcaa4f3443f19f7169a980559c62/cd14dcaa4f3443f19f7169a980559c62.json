@@ -16,13 +16,13 @@
       "Name": "Civilization VI : Australia Civilization & Scenario Pack",
       "ItemId": "95f0590433f54febbb3ca6355dedc070"
     },
-    "82bd0a6caf234cb6a2b2dc1746402474": {
-      "Name": "Civilization VI : Khmer and Indonesia Civilization & Scenario Pack",
-      "ItemId": "c107772e143246a3bca7b2a77f4b2d92"
-    },
     "c9af5e883f5a49189d87fe666e353cb7": {
       "Name": "Civilization VI : Nubia Civilization & Scenario Pack",
       "ItemId": "5ee819c6403f417b8cc763c0b72e2c45"
+    },
+    "82bd0a6caf234cb6a2b2dc1746402474": {
+      "Name": "Civilization VI : Khmer and Indonesia Civilization & Scenario Pack",
+      "ItemId": "c107772e143246a3bca7b2a77f4b2d92"
     },
     "KingletAztec": {
       "Name": "Civilization VI : Aztec DLC",
@@ -32,13 +32,13 @@
       "Name": "Civilization VI : Poland Civilization & Scenario Pack",
       "ItemId": "2b2d819381174b5b8f0d51ff3fab34a5"
     },
-    "a047f2873e964be8b738c4ecf381f08d": {
-      "Name": "Civilization VI : Gathering Storm",
-      "ItemId": "4736907992b24277b6444f7ad46cba6b"
-    },
     "182d077fb5a54e779de49eec9ae37b7b": {
       "Name": "Civilization VI : Vikings Scenario Pack",
       "ItemId": "f8fd3d710f494c9db50cb6fc35159ab0"
+    },
+    "a047f2873e964be8b738c4ecf381f08d": {
+      "Name": "Civilization VI : Gathering Storm",
+      "ItemId": "4736907992b24277b6444f7ad46cba6b"
     },
     "7f1b610bb2ed4cdeb4a204fdabfdec81": {
       "Name": "Civilization VI : Rise and Fall",
@@ -49,8 +49,8 @@
       "ItemId": "da956e29d13246c6bb75b15fbcb7e80a"
     },
     "9144532ac82b4f8d95293bfc4e0ca37c": {
-      "Name": "Civilization VI : Catherine De Medici DLC",
-      "ItemId": "95b2017cab8c4097a83e3f59e3650afb"
+      "Name": "Civilization VI \u2013 Portugal Pack",
+      "ItemId": "ec086ef8b6f24e46bf5141c708102b64"
     },
     "Anthology Upgrade Audience": {
       "Name": "Anthology Upgrade Audience",

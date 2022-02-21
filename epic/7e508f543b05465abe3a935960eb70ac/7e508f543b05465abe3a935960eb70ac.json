@@ -513,6 +513,10 @@
       "Name": "Shadowfell Desmond Theme Pack",
       "ItemId": "953796d5afb34b25bb8cc597ad3ea30b"
     },
+    "Brimstone Angels Shadowfell Bundle Pack": {
+      "Name": "Brimstone Angels Shadowfell Bundle Pack",
+      "ItemId": "9e0dee54bb3f4b95919b5b5f49ba9f4b"
+    },
     "Shadowfell Mehen Skin & Feat Pack": {
       "Name": "Shadowfell Mehen Skin & Feat Pack",
       "ItemId": "df15b5b05acf4f1bb885c9afdc50436a"
@@ -524,6 +528,34 @@
     "DLC152 Audience": {
       "Name": "DLC152 Audience",
       "ItemId": "d4b2ac3ee29e48d2b2873b147a624bd9"
+    },
+    "Marmadark the Pup of Ill Omens Familiar Pack": {
+      "Name": "Marmadark the Pup of Ill Omens Familiar Pack",
+      "ItemId": "38f5022c06704363840d82277ce00fa3"
+    },
+    "Shadowfell Tatyana Theme Pack": {
+      "Name": "Shadowfell Tatyana Theme Pack",
+      "ItemId": "886fe32b4d6a4ee2802338250dc378c9"
+    },
+    "Prismeer Shandie Theme Pack": {
+      "Name": "Prismeer Shandie Theme Pack",
+      "ItemId": "b9ab1d21246c428e9bb34e34d9cfe5d2"
+    },
+    "Polymorphed Yorven Skin & Feat Pack": {
+      "Name": "Polymorphed Yorven Skin & Feat Pack",
+      "ItemId": "893a188470854f299377ba54b7cddec5"
+    },
+    "Polymorphed Minsc Skin & Feat Pack": {
+      "Name": "Polymorphed Minsc Skin & Feat Pack",
+      "ItemId": "96bd71a8aead4d7599ad58721e867e35"
+    },
+    "Prismeer Sentry Skin & Feat Pack": {
+      "Name": "Prismeer Sentry Skin & Feat Pack",
+      "ItemId": "c3f65e44fec84e5ba87aa1bfe149ac18"
+    },
+    "Colonel Pest the Pest Mascot Familiar Pack": {
+      "Name": "Colonel Pest the Pest Mascot Familiar Pack",
+      "ItemId": "a4704c5793474db0a63c75127391db0a"
     }
   }
 }

@@ -18,7 +18,7 @@ namespace EGS
         // AccountAuthToken
         public const int AccountAuthTokenInvalidRefreshToken = 18036;
         // CommonMethod
-        public const int CommonMethodNotAllowed = 6;
+        public const int CommonMethodNotAllowed = 1009;
         // CommonOautj
         public const int CommonOauthInvalidToken = 7;
         // CommonAuthentication
@@ -40,4 +40,5 @@ namespace EGS
             return new Error { ErrorCode = res.ErrorCode, Message = res.Message };
         }
     }
+
 }

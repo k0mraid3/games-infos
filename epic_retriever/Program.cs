@@ -383,7 +383,7 @@ namespace epic_retriever
                     game_infos["Namespace"] = app.Namespace;
                     game_infos["ItemId"] = app.Id;
                     game_infos["ImageUrl"] = FindBestImage(app);
-		    foreach (EGS.ReleaseInfo releaseInfo in app.ReleaseInfo)
+                    foreach (EGS.ReleaseInfo releaseInfo in app.ReleaseInfo)
                     {
                         game_infos["Releases"] = JArray.FromObject(releaseInfo.Platform);
                     }

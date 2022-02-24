@@ -1,0 +1,19 @@
+{
+  "Dlcs": {},
+  "Name": "YUME : Special Edition",
+  "AppId": "1864070",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1864070/header.jpg?t=1645530087",
+  "Languages": [
+    "schinese",
+    "english",
+    "russian",
+    "japanese",
+    "tchinese",
+    "korean"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

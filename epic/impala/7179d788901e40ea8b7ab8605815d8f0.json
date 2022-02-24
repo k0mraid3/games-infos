@@ -1,0 +1,20 @@
+﻿{
+  "Name": "Tom Clancy's The Division 2",
+  "AppId": "Impala",
+  "Namespace": "impala",
+  "ItemId": "7179d788901e40ea8b7ab8605815d8f0",
+  "ImageUrl": "https://cdn1.epicgames.com/impala/item/Game-Page-Promo-2580x1450-99fd67a6a935b8c2436385b0c54e6f92.jpg",
+  "Releases": [
+    "Windows"
+  ],
+  "Dlcs": {
+    "e303b2c169c1461aa2e5041a401dff33": {
+      "Name": "Tom Clancy's The Division 2 - Y1 Season Pass",
+      "ItemId": "e95267125c9f4278a23cdc448f25aa23"
+    },
+    "79ada9a52c9a4f6fa83608b012cb280d": {
+      "Name": "Tom Clancy's The Division 2 - Y2 Season Pass",
+      "ItemId": "f2012dac14854ce98803922ecaec8038"
+    }
+  }
+}

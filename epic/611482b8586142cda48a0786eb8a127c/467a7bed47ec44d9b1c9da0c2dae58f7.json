@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Dead by Daylight",
+  "AppId": "Brill",
+  "Namespace": "611482b8586142cda48a0786eb8a127c",
+  "ItemId": "467a7bed47ec44d9b1c9da0c2dae58f7",
+  "ImageUrl": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S1_2560x1440-9790e96a8d2a08325bd7b4dc70148127",
+  "Releases": [
+    "Windows"
+  ],
+  "Dlcs": {}
+}

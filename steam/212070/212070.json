@@ -264,6 +264,11 @@
       "Name": "Star Conflict - Razor (Deluxe Edition)",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1818135/header.jpg?t=1645079799",
       "Type": "dlc"
+    },
+    "1040040": {
+      "Name": "Star Conflict: Thar'Ga. Deluxe Version",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1040040/header.jpg?t=1645555458",
+      "Type": "dlc"
     }
   },
   "Name": "Star Conflict",

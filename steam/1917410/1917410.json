@@ -1,0 +1,24 @@
+{
+  "Dlcs": {},
+  "Name": "Elemental Angel Ⅱ",
+  "AppId": "1917410",
+  "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1917410/header.jpg?t=1645542772",
+  "Languages": [
+    "english",
+    "french",
+    "italian",
+    "german",
+    "spanish",
+    "russian",
+    "japanese",
+    "schinese",
+    "tchinese",
+    "portuguese",
+    "korean"
+  ],
+  "Platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  }
+}

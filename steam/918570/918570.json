@@ -34,6 +34,11 @@
       "Name": "Century - Lone Roar Pack",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1852460/header.jpg?t=1640871607",
       "Type": "dlc"
+    },
+    "1907460": {
+      "Name": "Century - Introduction Pack",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1907460/header.jpg?t=1645553532",
+      "Type": "dlc"
     }
   },
   "Name": "Century: Age of Ashes",

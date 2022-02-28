@@ -19,6 +19,11 @@
       "Name": "Aeon's End - Promo Pack 1",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1179230/header.jpg?t=1573581568",
       "Type": "dlc"
+    },
+    "1736700": {
+      "Name": "Aeon's End - The New Age",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1736700/header.jpg?t=1645750251",
+      "Type": "dlc"
     }
   },
   "Name": "Aeon's End",

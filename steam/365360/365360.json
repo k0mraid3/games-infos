@@ -39,6 +39,11 @@
       "Name": "Battle Brothers - Support the Developers & Kraken Banner",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/986090/header.jpg?t=1593437686",
       "Type": "dlc"
+    },
+    "1910050": {
+      "Name": "Battle Brothers - Of Flesh and Faith",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1910050/header.jpg?t=1645794476",
+      "Type": "dlc"
     }
   },
   "Name": "Battle Brothers",

@@ -1,5 +1,11 @@
 {
-  "Dlcs": {},
+  "Dlcs": {
+    "1850440": {
+      "Name": "La maledizione dell’Uccello Serpente - Vicende Parallele",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1850440/header.jpg?t=1645867708",
+      "Type": "dlc"
+    }
+  },
   "Name": "La Maledizione dell'Uccello Serpente",
   "AppId": "723720",
   "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/723720/header.jpg?t=1643056111",

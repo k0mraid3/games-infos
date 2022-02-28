@@ -1,5 +1,11 @@
 {
-  "Dlcs": {},
+  "Dlcs": {
+    "1919820": {
+      "Name": "Dusk Diver 2 DLC - Summer Swimsuit Set 1",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1919820/header.jpg?t=1645669105",
+      "Type": "dlc"
+    }
+  },
   "Name": "Dusk Diver 2",
   "AppId": "1792600",
   "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1792600/header.jpg?t=1639036188",

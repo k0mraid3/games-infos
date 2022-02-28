@@ -1309,6 +1309,8 @@ int main(int argc, char *argv[])
     
     egs_api.GetUserOAuth(oauth);
     save_json(dumper_root + "dumper_oauth.json", oauth);
+
+    args.clear();
     {
         std::string game_exchange_code;
         if (egs_api.GetGameExchangeCode(game_exchange_code).error != EGS_Api::ErrorType::OK)
@@ -1316,12 +1318,21 @@ int main(int argc, char *argv[])
             return -1;
         }
 
-        egs_api.GetGameRefreshToken(game_exchange_code, deployement_id, audience, secret_key, game_refresh_token);
+        if (egs_api.GetGameRefreshToken(game_exchange_code, deployement_id, audience, secret_key, game_refresh_token).error == EGS_Api::ErrorType::OK && !game_refresh_token.empty())
+        {
+            args.emplace_back("-AUTH_TYPE=refreshtoken");
+            args.emplace_back("-AUTH_PASSWORD=" + game_refresh_token);
+        }
+        else
+        {
+            if (egs_api.GetGameExchangeCode(game_exchange_code).error != EGS_Api::ErrorType::OK)
+            {
+                return -1;
+            }
+            args.emplace_back("-AUTH_TYPE=exchangecode");
+            args.emplace_back("-AUTH_PASSWORD=" + game_exchange_code);
+        }
     }
-    
-    args.clear();
-    args.emplace_back("-AUTH_TYPE=refreshtoken");
-    args.emplace_back("-AUTH_PASSWORD=" + game_refresh_token);
 
     for (auto& arg : args)
     {
@@ -1419,10 +1430,14 @@ int main(int argc, char *argv[])
         AuthLogin(auth_password, auth_type);
         ConnectLogin();
 
-        MakeAchievementsV1();
-        MakeAchievementsV2();
-        MakeStats();
-        MakeCatalog();
+        try { MakeAchievementsV1(); }
+        catch(std::runtime_error& e){ SPDLOG_TRACE("{}", e.what()); }
+        try { MakeAchievementsV2(); }
+        catch(std::runtime_error& e){ SPDLOG_TRACE("{}", e.what()); }
+        try { MakeStats(); }
+        catch(std::runtime_error& e){ SPDLOG_TRACE("{}", e.what()); }
+        try { MakeCatalog(); }
+        catch(std::runtime_error& e){ SPDLOG_TRACE("{}", e.what()); }
     }
     catch (std::runtime_error& e)
     {

@@ -3,7 +3,7 @@
   "AppId": "Jackal",
   "Namespace": "jackal",
   "ItemId": "2f415248cb524eaf950a16e55d315dac",
-  "ImageUrl": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-20e1f3f48dec59c5324f99c70a566bb6",
+  "ImageUrl": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-2b965037bf3386c42c5826ea920fa6cf",
   "Releases": [
     "Windows"
   ],
@@ -76,9 +76,21 @@
       "Name": "Serendipity's Songblade Bundle Audience",
       "ItemId": "2792e686759f44b4ad9f4e97979f6854"
     },
-    "jackal DLC Audience": {
-      "Name": "jackal DLC Audience",
+    "Epic Slayer Kit Audience": {
+      "Name": "Epic Slayer Kit Audience",
       "ItemId": "5032a17674ea4916a673f0e1d188d318"
+    },
+    "Elite Slayer Kit Audience": {
+      "Name": "Elite Slayer Kit Audience",
+      "ItemId": "53aea1059c704c00a6b05461961c10d0"
+    },
+    "Shining Maul Bundle Audience": {
+      "Name": "Shining Maul Bundle Audience",
+      "ItemId": "6c7a6a7dfddd466f9a36e98c1fd65c83"
+    },
+    "Shining Ripper Bundle Audience": {
+      "Name": "Shining Ripper Bundle Audience",
+      "ItemId": "8e7e491100334a45b5a6f02e94c34eb3"
     }
   }
 }

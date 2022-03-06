@@ -144,6 +144,11 @@
       "Name": "Hunt: Showdown - Azure Arsenal",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/header.jpg?t=1643285372",
       "Type": "dlc"
+    },
+    "1852480": {
+      "Name": "Hunt: Showdown - They Came From Salem",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/header.jpg?t=1646245685",
+      "Type": "dlc"
     }
   },
   "Name": "Hunt: Showdown",

@@ -319,6 +319,11 @@
       "Name": "Immersion Pack - Europa Universalis IV: Origins",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1756130/header.jpg?t=1636621408",
       "Type": "dlc"
+    },
+    "1896050": {
+      "Name": "Europa Universalis IV - Expansion Subscription",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1896050/header.jpg?t=1646159483",
+      "Type": "dlc"
     }
   },
   "Name": "Europa Universalis IV",

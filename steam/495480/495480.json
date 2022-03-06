@@ -729,6 +729,11 @@
       "Name": "Visual Novel Maker - Darkest Hour",
       "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1914650/header.jpg?t=1645724238",
       "Type": "dlc"
+    },
+    "1922420": {
+      "Name": "Visual Novel Maker - RE-D MUSIC PACK 3",
+      "ImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1922420/header.jpg?t=1646328538",
+      "Type": "dlc"
     }
   },
   "Name": "Visual Novel Maker",

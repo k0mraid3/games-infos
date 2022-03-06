@@ -95,6 +95,30 @@
     "Elite Dragoneers Bundle audience": {
       "Name": "Elite Dragoneers Bundle audience",
       "ItemId": "e7cc24a532d94590a7a505b4f0060601"
+    },
+    "Dragoneers Bundle 1 audience": {
+      "Name": "Dragoneers Bundle 1 audience",
+      "ItemId": "87d50e6a330f4925ba15b46a57087bc9"
+    },
+    "Dragoneers Bundle 2 audience": {
+      "Name": "Dragoneers Bundle 2 audience",
+      "ItemId": "39879c8d5c5a45e6a54880845efe9e0b"
+    },
+    "Dragoneers Bundle 3 audience": {
+      "Name": "Dragoneers Bundle 3 audience",
+      "ItemId": "1f7aed082efe4e1795c406a449cf4c8b"
+    },
+    "Dragoneers Bundle 4 audience": {
+      "Name": "Dragoneers Bundle 4 audience",
+      "ItemId": "c6fc9f769edf457d8ff4be10ab90dd8d"
+    },
+    "Dragoneers Bundle 5 audience": {
+      "Name": "Dragoneers Bundle 5 audience",
+      "ItemId": "d0e458e99bce4b35ba2f8f84e5005b80"
+    },
+    "Dragoneers Bundle 6 audience": {
+      "Name": "Dragoneers Bundle 6 audience",
+      "ItemId": "a58f3aa306ca4bf9806e87ea826d14f6"
     }
   }
 }
